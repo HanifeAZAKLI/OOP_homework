@@ -1,0 +1,14 @@
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\bin\Debug\net8.0\Workshop1.exe
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\bin\Debug\net8.0\Workshop1.deps.json
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\bin\Debug\net8.0\Workshop1.runtimeconfig.json
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\bin\Debug\net8.0\Workshop1.dll
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\bin\Debug\net8.0\Workshop1.pdb
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\obj\Debug\net8.0\Workshop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\obj\Debug\net8.0\Workshop1.AssemblyInfoInputs.cache
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\obj\Debug\net8.0\Workshop1.AssemblyInfo.cs
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\obj\Debug\net8.0\Workshop1.csproj.CoreCompileInputs.cache
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\obj\Debug\net8.0\Workshop1.dll
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\obj\Debug\net8.0\refint\Workshop1.dll
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\obj\Debug\net8.0\Workshop1.pdb
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\obj\Debug\net8.0\Workshop1.genruntimeconfig.cache
+C:\Users\banud\source\repos\Tobeto_C#_DOTNET\Workshop1\obj\Debug\net8.0\ref\Workshop1.dll
